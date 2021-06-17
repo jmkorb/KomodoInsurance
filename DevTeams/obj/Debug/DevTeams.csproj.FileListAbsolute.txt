@@ -1,0 +1,9 @@
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\bin\Debug\DevTeams.dll
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\bin\Debug\DevTeams.pdb
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\bin\Debug\Developers.dll
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\bin\Debug\Developers.pdb
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.CopyComplete
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.dll
+C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.pdb
