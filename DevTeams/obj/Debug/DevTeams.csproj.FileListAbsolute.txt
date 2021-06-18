@@ -7,3 +7,12 @@ C:\Users\Jacob\source\repos\KomodoProject\DevTeams\bin\Debug\Developers.pdb
 C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.CopyComplete
 C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.dll
 C:\Users\Jacob\source\repos\KomodoProject\DevTeams\obj\Debug\DevTeams.pdb
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\bin\Debug\DevTeams.dll
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\bin\Debug\DevTeams.pdb
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\bin\Debug\Developers.dll
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\bin\Debug\Developers.pdb
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\obj\Debug\DevTeams.csproj.CopyComplete
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\obj\Debug\DevTeams.dll
+C:\ElevenFiftyProjects\KomodoProject\DevTeams\obj\Debug\DevTeams.pdb

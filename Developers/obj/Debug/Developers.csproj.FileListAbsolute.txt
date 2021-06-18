@@ -4,3 +4,9 @@ C:\Users\Jacob\source\repos\KomodoProject\Developers\bin\Debug\Developers.dll
 C:\Users\Jacob\source\repos\KomodoProject\Developers\bin\Debug\Developers.pdb
 C:\Users\Jacob\source\repos\KomodoProject\Developers\obj\Debug\Developers.dll
 C:\Users\Jacob\source\repos\KomodoProject\Developers\obj\Debug\Developers.pdb
+C:\ElevenFiftyProjects\KomodoProject\Developers\bin\Debug\Developers.dll
+C:\ElevenFiftyProjects\KomodoProject\Developers\bin\Debug\Developers.pdb
+C:\ElevenFiftyProjects\KomodoProject\Developers\obj\Debug\Developers.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\KomodoProject\Developers\obj\Debug\Developers.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\KomodoProject\Developers\obj\Debug\Developers.dll
+C:\ElevenFiftyProjects\KomodoProject\Developers\obj\Debug\Developers.pdb

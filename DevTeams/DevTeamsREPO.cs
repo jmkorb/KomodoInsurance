@@ -26,7 +26,12 @@ namespace DevTeams
         
 
         //Update
-        public bool UpdateTeamList(int oldID, DevelopersPOCO developer, int newID)
+        public void UpdateTeam(DevTeamsPOCO newTeam, DevTeamsPOCO oldTeam)
+        {
+            oldTeam.TeamName = newTeam.TeamName;
+            oldTeam.TeamID = newTeam.TeamID;
+        }
+        public void MoveMember(int oldID, int newID, DevelopersPOCO developer)
         {
             DevTeamsPOCO oldTeam = GetTeamByID(oldID);
             DevTeamsPOCO newTeam = GetTeamByID(newID);
@@ -38,11 +43,10 @@ namespace DevTeams
                 newTeam.TeamMembers.Add(developer);
                 oldTeam.TeamMembers.Remove(developer);
                 //could come back and add a check based on list count
-                return true;
             }
             else
             {
-                return false;
+                newTeam.TeamMembers.Add(developer);
             }
         }
 
